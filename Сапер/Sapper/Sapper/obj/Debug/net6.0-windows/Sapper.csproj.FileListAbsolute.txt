@@ -1,0 +1,80 @@
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\Sapper.exe
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\Sapper.deps.json
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\Sapper.runtimeconfig.json
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\Sapper.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\Sapper.pdb
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.csproj.AssemblyReference.cache
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form1.resources
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.csproj.GenerateResource.cache
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.AssemblyInfoInputs.cache
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.AssemblyInfo.cs
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\refint\Sapper.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.pdb
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.genruntimeconfig.cache
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\ref\Sapper.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Properties.Resources.resources
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.csproj.CopyComplete
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form2.resources
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form3.resources
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form4.resources
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form5.resources
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form6.resources
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form8.resources
+C:\Users\markk\OneDrive\Рабочий стол\РИСПО\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form7.resources
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.csproj.AssemblyReference.cache
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form1.resources
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form2.resources
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form3.resources
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form4.resources
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form5.resources
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form6.resources
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form7.resources
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Form8.resources
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.csproj.GenerateResource.cache
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\Sapper.exe
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\Sapper.deps.json
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\Sapper.runtimeconfig.json
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\Sapper.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\Sapper.pdb
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.Properties.Resources.resources
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.AssemblyInfoInputs.cache
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.AssemblyInfo.cs
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.csproj.CopyComplete
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\refint\Sapper.dll
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.pdb
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\Sapper.genruntimeconfig.cache
+C:\Users\markk\Downloads\Сапер\Sapper\Sapper\obj\Debug\net6.0-windows\ref\Sapper.dll
